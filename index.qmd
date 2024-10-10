@@ -1,6 +1,6 @@
 ---
 title: "Fidèle Balume"
-image: profile.jpg
+image: profile.png
 toc: false
 about: 
   template: trestles
