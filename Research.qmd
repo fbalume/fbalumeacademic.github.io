@@ -44,3 +44,5 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 Les méthodes de gestion de stocks : [corrigé du cas XY](CasXY.pdf)
 
 #### - Gestion comptable 1 & 2
+
+Modèle de balance comptable : [Cas Les Transport Réunis](BalanceModelTransR.docx)
